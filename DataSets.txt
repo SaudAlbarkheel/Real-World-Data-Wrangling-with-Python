@@ -1,0 +1,4 @@
+electric vehicle population size history by county:
+https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
+Electric Vehicle Population Data:
+https://catalog.data.gov/dataset/electric-vehicle-population-data
